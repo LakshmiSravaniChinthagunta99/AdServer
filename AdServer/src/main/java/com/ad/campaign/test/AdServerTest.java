@@ -9,10 +9,11 @@ import org.junit.runner.RunWith;
 
 import com.jayway.restassured.RestAssured;
 
+//NOTE THis test is not in working condition
 /**
  * Basic integration tests for service demo application.
  *
- * @author Dave Syer
+ * @author 
  */
 /*
 @RunWith(SpringRunner.class)
