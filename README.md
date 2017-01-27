@@ -3,12 +3,18 @@
 
 Steps to setup the code:
 1. unzip the contents
+
 2. open eclipse
+
 3. create maven web project
+
 4. import the files
+
 5. copy pom file - update the mavn this will download all required jar files
+
 6. Copy web.xml files
-6. configure and run the apache server
+
+7. configure and run the apache server
 
 1. to test and list out all the ads use below url (mime type application/xml) in chrome or rest webservice client
 http://localhost:8080/AdServer/ad/AdServer/listallad
